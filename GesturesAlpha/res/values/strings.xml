@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gestures Alpha</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Clear</string>
+    <string name="act_status">Activity Status</string>
+    <string name="pre_act_status">Pre Activity Touch</string>
+    <string name="pointx">X</string>
+    <string name="pointy">Y</string>
+    <string name="act_mov">Activity</string>
+    <string name="dsp_mov">Dispatch</string>
+    <string name="gototouchact">Touch Activity</string>
+
+</resources>
