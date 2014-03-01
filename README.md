@@ -2,11 +2,8 @@ multitouch-gestures-android
 ===========================
 
 Android Library for listening in your app for users two-, three-, four-, five- fingers gestures. 
-Just initialize GestureListener object and use Update() method.
-Strongly recommend to use it in Activity on dispatchTouchEvent() method.
-The library supported next Gestures constants (avaible in Gesture class) now :
-
-UNSUPPORTED_GESTURE
+Just initialize GestureListener object in onCreate method then use Update() method in Activity on dispatchTouchEvent() method.
+GesturesListener will return one of next supported constants to you (avaible in Gesture class)
 
 TWO_FINGERS_UP
 
