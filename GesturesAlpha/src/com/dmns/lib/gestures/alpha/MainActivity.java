@@ -56,7 +56,6 @@ public class MainActivity extends Activity implements OnTouchListener{
 	
 	@Override
 	public boolean dispatchTouchEvent(MotionEvent event) {
-		// TODO Auto-generated method stub
 		x = event.getX();
 		y = event.getY();
 		
